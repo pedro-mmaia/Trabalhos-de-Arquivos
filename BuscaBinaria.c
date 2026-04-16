@@ -1,6 +1,7 @@
-///Integrantes:
-//Geovanne Gomes de Souza
-//Pedro Henrique Maia da Silva
+// Integrantes:
+// Geovanne Gomes de Souza
+// Pedro Henrique Maia da Silva
+// Andre Veiga Osorio
 
 #include <stdio.h>
 #include <string.h>
