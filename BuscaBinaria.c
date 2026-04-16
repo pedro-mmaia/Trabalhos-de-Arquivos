@@ -1,7 +1,6 @@
-// aq vc vai usar a logica da busca binaria para encontrar o CEP dentro do arquivo cep.dat
-// use o ExemploSEEK como base para fazer a buscabinaria
-// usando o BuscaCEP normal ele leu 384823 registros
-// com o BuscaBinaria leu
+///Integrantes:
+//Geovanne Gomes de Souza
+//Pedro Henrique Maia da Silva
 
 #include <stdio.h>
 #include <string.h>
@@ -23,7 +22,7 @@ int main(int argc, char **argv)
 {
     FILE *f;
     Endereco e;
-    int qt;
+    long qt;
     int c;
 
     if (argc != 2)
