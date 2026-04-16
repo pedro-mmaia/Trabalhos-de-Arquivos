@@ -3,6 +3,10 @@
 #include <string.h>
 #define K 2
 typedef struct _Endereco Endereco;
+//Integrantes:
+//Geovanne Gomes de Souza
+//Pedro Henrique Maia da Silva
+//Andre Veiga Osorio
 struct _Endereco
 {
     char logradouro[72];
